@@ -1,0 +1,107 @@
+*
+{
+
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    background-color: #1C1E53;
+    
+}
+.container-fluid
+{
+    gap: 40%;
+}
+#main_section
+{
+    color: white;
+    background-color: #1C1E53;
+}
+#Hero_Section
+{
+    padding: 5%;
+}
+#section_2
+{
+    background-color: #F4F6FC;
+    padding: 5em;
+}
+#section_2_Box
+{
+    
+    gap: 5em;
+}
+#section_3
+{
+    /* width: 100%;
+    height: 80vh; */
+    color: white;
+}
+#section_3_1
+{
+    /* background-color: #f2f2f2; */
+    background: linear-gradient(0deg,#1c1e538f,#1c1e538f),url("assets/img/woman-writing-on-paper-3228878.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#section_3_2
+{
+    background-color: #1C1E53;
+}
+#section_3>section>*
+{
+    margin: 1em;
+}
+
+#section_5
+{
+    background-color: #F4F6FC;
+}
+
+.gap-5em
+{
+    
+    gap:5em;
+}
+.gap-1em
+{
+    
+    gap:1em;
+}
+
+.padding-8em
+{
+    padding: 8em;
+}
+
+#section_6{
+    background-color: #1C1E53;
+
+}
+#section_6 p{
+    opacity: 0.8;
+
+}
+#section_6_box
+{
+    color: black;
+    background-color: #FCD980;
+}
+
+footer a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#project_1_card_over
+{
+    color:white;
+    width: 30%;
+    background:linear-gradient(329.39deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    height: 100%;
+}
+#project_2_card_over{
+    color:white;
+    background:linear-gradient(329.39deg, #1C1E53 -10.96%, rgba(28, 30, 83, 0.42) 103.96%);
+    height: 100%;
+}
